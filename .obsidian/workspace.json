@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quadratiche/Classificazione delle quadriche.md",
+                "file": "Introduzione al corso.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quadratiche/Classificazione delle quadriche.md",
+                "file": "Introduzione al corso.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quadratiche/Classificazione delle quadriche.md"
+                "file": "Introduzione al corso.md"
               }
             }
           },
@@ -151,57 +151,94 @@
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
       "obsidian-matrix:Obsidian Matrix": false,
-      "webpage-html-export:Export Vault to HTML": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "017efa86e9e4d9e9",
+  "floating": {
+    "id": "84f12d79b4d7934c",
+    "type": "floating",
+    "children": [
+      {
+        "id": "d25197989fea2bcd",
+        "type": "window",
+        "children": [
+          {
+            "id": "bbee6ad32f60ef13",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "bd33cd09a81a9957",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Introduzione al corso.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 32,
+        "width": 1920,
+        "height": 994,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "bd33cd09a81a9957",
   "lastOpenFiles": [
-    "Quadratiche/Forma canonica.md",
-    "Esame.md",
-    "Quadratiche/Classificazione delle quadriche.md",
-    "Matrici/Rango.md",
-    "Funzioni/Trasformazioni.md",
-    "Sistemi lineari/Sistemi lineari.md",
-    "Quadratiche/Quadriche di rotazione.md",
-    "index.md",
-    "Geometria/Posizione reciproca.md",
-    "Pre-geometria/Prodotto scalare.md",
-    "Geometria/Distanza fra spazi affini.md",
-    "Pre-geometria/Prodotto vettore.md",
-    "Pre-geometria/Basi ortogonali e ortonormali.md",
-    "Geometria/Parallelismo.md",
-    "Geometria/Piano.md",
-    "Geometria/Ortogonalita.md",
-    "Quadratiche/Classificazione affine delle quadriche.md",
-    "Geometria/Retta.md",
-    "Pre-geometria/Proiezione.md",
-    "Matrici/Determinante.md",
-    "Matrici/Matrici.md",
-    "Matrici/Matrici diagonalizzabili.md",
-    "Introduzione al corso.md",
+    "docs/lib/fonts/2d5198822ab091ce4305.woff2",
+    "docs/lib/fonts/94f2f163d4b698242fef.otf",
+    "docs/lib/fonts/72505e6a122c6acd5471.woff2",
+    "docs/lib/fonts",
+    "docs/Introduzione al corso.html",
+    "docs/index.html",
+    "docs/Vettori/Vettori.html",
+    "docs/Vettori",
+    "docs/Spazi vettoriali/Spazi vettoriali.html",
+    "docs/Spazi vettoriali/Sottospazio vettoriale.html",
+    "docs/Spazi vettoriali/Base di spazio vettoriale.html",
+    "docs/Data/prodotto-tra-matrici.png",
+    "docs/Data/Pasted image 20240109131459.png",
+    "docs/Data/Pasted image 20240109112438.png",
+    "docs/Data/Pasted image 20240109111848.png",
+    "docs/Data/Pasted image 20240109105247.png",
+    "docs/Data/Pasted image 20240106182434.png",
+    "docs/Data/Pasted image 20240106180613.png",
+    "docs/Data/Pasted image 20240104153943.png",
+    "docs/Data/Pasted image 20231113143437.png",
+    "docs/Data/Pasted image 20231113130753.png",
     "Vettori/Vettori.md",
-    "Matrici/Matrice inversa.md",
+    "Spazi vettoriali/Spazi vettoriali.md",
+    "Spazi vettoriali/Sottospazio vettoriale.md",
     "Spazi vettoriali/Base di spazio vettoriale.md",
-    "Quadratiche",
-    "Data/Pasted image 20240109131459.png",
-    "Data/Pasted image 20240109112438.png",
-    "Data/Pasted image 20240109111848.png",
-    "Data/Pasted image 20240109105247.png",
-    "Geometria",
-    "bin/act",
-    "bin",
-    "Data/Pasted image 20240106182434.png",
-    "Data/Pasted image 20240106180613.png",
-    "Pre-geometria",
-    "Funzioni",
-    "Spazi vettoriali",
-    "Sistemi lineari",
-    "Data/Pasted image 20240104153943.png",
-    "Matrici",
-    "Vettori",
-    "Data/Pasted image 20231113143437.png",
-    "Data/Pasted image 20231113130753.png",
-    "Data/Pasted image 20231113130303.png"
+    "Sistemi lineari/Sistemi lineari.md",
+    "Quadratiche/Superfici quadratiche.md",
+    "Quadratiche/Quadriche di rotazione.md",
+    "Quadratiche/Quadriche.md",
+    "Quadratiche/Forme quadratiche.md",
+    "Quadratiche/Forma canonica.md",
+    "Quadratiche/Classificazione delle quadriche.md",
+    "Quadratiche/Classificazione affine delle quadriche.md",
+    "Pre-geometria/Proiezione.md",
+    "Pre-geometria/Prodotto vettore.md",
+    "Pre-geometria/Prodotto scalare.md",
+    "Pre-geometria/Pre-geometria.md",
+    "Pre-geometria/Cambio di base.md",
+    "Pre-geometria/Basi ortogonali e ortonormali.md",
+    "Matrici/Trasposta di matrice.md",
+    "Matrici/Rango.md",
+    "Matrici/Matrici diagonalizzabili.md",
+    "Matrici/Matrici.md",
+    "Matrici/Matrice inversa.md",
+    "Matrici/Determinante.md",
+    "Geometria/Retta.md"
   ]
 }

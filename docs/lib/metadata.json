@@ -1,0 +1,666 @@
+{
+  "vaultName": "MAT-03",
+  "lastExport": 1708505305495,
+  "pluginVersion": "1.8.0",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "Data/Immagine.png",
+    "Data/Pasted image 20230925133940.png",
+    "Data/Pasted image 20230925134357.png",
+    "Data/Pasted image 20230925134734.png",
+    "Data/Pasted image 20230925134855.png",
+    "Data/Pasted image 20230925134936.png",
+    "Data/Pasted image 20230925140100.png",
+    "Data/Pasted image 20231113125755.png",
+    "Data/Pasted image 20231113130303.png",
+    "Data/Pasted image 20231113130753.png",
+    "Data/Pasted image 20231113143437.png",
+    "Data/Pasted image 20240104153943.png",
+    "Data/Pasted image 20240106180613.png",
+    "Data/Pasted image 20240106182434.png",
+    "Data/Pasted image 20240109105247.png",
+    "Data/Pasted image 20240109111848.png",
+    "Data/Pasted image 20240109112438.png",
+    "Data/Pasted image 20240109131459.png",
+    "Data/prodotto-tra-matrici.png",
+    "Funzioni/Trasformazioni.md",
+    "Geometria/Distanza fra spazi affini.md",
+    "Geometria/Ortogonalita.md",
+    "Geometria/Parallelismo.md",
+    "Geometria/Piano.md",
+    "Geometria/Posizione reciproca.md",
+    "Geometria/Retta.md",
+    "Matrici/Determinante.md",
+    "Matrici/Matrice inversa.md",
+    "Matrici/Matrici.md",
+    "Matrici/Matrici diagonalizzabili.md",
+    "Matrici/Rango.md",
+    "Matrici/Trasposta di matrice.md",
+    "Pre-geometria/Basi ortogonali e ortonormali.md",
+    "Pre-geometria/Cambio di base.md",
+    "Pre-geometria/Pre-geometria.md",
+    "Pre-geometria/Prodotto scalare.md",
+    "Pre-geometria/Prodotto vettore.md",
+    "Pre-geometria/Proiezione.md",
+    "Quadratiche/Classificazione affine delle quadriche.md",
+    "Quadratiche/Classificazione delle quadriche.md",
+    "Quadratiche/Forma canonica.md",
+    "Quadratiche/Forme quadratiche.md",
+    "Quadratiche/Quadriche.md",
+    "Quadratiche/Quadriche di rotazione.md",
+    "Quadratiche/Superfici quadratiche.md",
+    "Sistemi lineari/Sistemi lineari.md",
+    "Spazi vettoriali/Base di spazio vettoriale.md",
+    "Spazi vettoriali/Sottospazio vettoriale.md",
+    "Spazi vettoriali/Spazi vettoriali.md",
+    "Vettori/Vettori.md",
+    "index.md",
+    "Introduzione al corso.md",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/fonts/MathJax_Zero.woff",
+    "lib/fonts/MathJax_Main-Regular.woff",
+    "lib/fonts/MathJax_Main-Bold.woff",
+    "lib/fonts/MathJax_Math-Italic.woff",
+    "lib/fonts/MathJax_Main-Italic.woff",
+    "lib/fonts/MathJax_Math-BoldItalic.woff",
+    "lib/fonts/MathJax_Size1-Regular.woff",
+    "lib/fonts/MathJax_Size2-Regular.woff",
+    "lib/fonts/MathJax_Size3-Regular.woff",
+    "lib/fonts/MathJax_Size4-Regular.woff",
+    "lib/fonts/MathJax_AMS-Regular.woff",
+    "lib/fonts/MathJax_Calligraphic-Regular.woff",
+    "lib/fonts/MathJax_Calligraphic-Bold.woff",
+    "lib/fonts/MathJax_Fraktur-Regular.woff",
+    "lib/fonts/MathJax_Fraktur-Bold.woff",
+    "lib/fonts/MathJax_SansSerif-Regular.woff",
+    "lib/fonts/MathJax_SansSerif-Bold.woff",
+    "lib/fonts/MathJax_SansSerif-Italic.woff",
+    "lib/fonts/MathJax_Script-Regular.woff",
+    "lib/fonts/MathJax_Typewriter-Regular.woff",
+    "lib/fonts/MathJax_Vector-Regular.woff",
+    "lib/fonts/MathJax_Vector-Bold.woff"
+  ],
+  "mainDependencies": [
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/fonts/MathJax_Zero.woff",
+    "lib/fonts/MathJax_Main-Regular.woff",
+    "lib/fonts/MathJax_Main-Bold.woff",
+    "lib/fonts/MathJax_Math-Italic.woff",
+    "lib/fonts/MathJax_Main-Italic.woff",
+    "lib/fonts/MathJax_Math-BoldItalic.woff",
+    "lib/fonts/MathJax_Size1-Regular.woff",
+    "lib/fonts/MathJax_Size2-Regular.woff",
+    "lib/fonts/MathJax_Size3-Regular.woff",
+    "lib/fonts/MathJax_Size4-Regular.woff",
+    "lib/fonts/MathJax_AMS-Regular.woff",
+    "lib/fonts/MathJax_Calligraphic-Regular.woff",
+    "lib/fonts/MathJax_Calligraphic-Bold.woff",
+    "lib/fonts/MathJax_Fraktur-Regular.woff",
+    "lib/fonts/MathJax_Fraktur-Bold.woff",
+    "lib/fonts/MathJax_SansSerif-Regular.woff",
+    "lib/fonts/MathJax_SansSerif-Bold.woff",
+    "lib/fonts/MathJax_SansSerif-Italic.woff",
+    "lib/fonts/MathJax_Script-Regular.woff",
+    "lib/fonts/MathJax_Typewriter-Regular.woff",
+    "lib/fonts/MathJax_Vector-Regular.woff",
+    "lib/fonts/MathJax_Vector-Bold.woff"
+  ],
+  "fileInfo": {
+    "Data/Immagine.png": {
+      "modifiedTime": 1708505305495,
+      "sourceSize": 3494,
+      "exportedPath": "Data/Immagine.png",
+      "dependencies": []
+    },
+    "Data/Pasted image 20230925133940.png": {
+      "modifiedTime": 1708505305495,
+      "sourceSize": 3407,
+      "exportedPath": "Data/Pasted image 20230925133940.png",
+      "dependencies": []
+    },
+    "Data/Pasted image 20230925134357.png": {
+      "modifiedTime": 1708505305495,
+      "sourceSize": 7697,
+      "exportedPath": "Data/Pasted image 20230925134357.png",
+      "dependencies": []
+    },
+    "Data/Pasted image 20230925134734.png": {
+      "modifiedTime": 1708505305495,
+      "sourceSize": 4149,
+      "exportedPath": "Data/Pasted image 20230925134734.png",
+      "dependencies": []
+    },
+    "Data/Pasted image 20230925134855.png": {
+      "modifiedTime": 1708505305495,
+      "sourceSize": 6836,
+      "exportedPath": "Data/Pasted image 20230925134855.png",
+      "dependencies": []
+    },
+    "Data/Pasted image 20230925134936.png": {
+      "modifiedTime": 1708505305495,
+      "sourceSize": 4727,
+      "exportedPath": "Data/Pasted image 20230925134936.png",
+      "dependencies": []
+    },
+    "Data/Pasted image 20230925140100.png": {
+      "modifiedTime": 1708505305495,
+      "sourceSize": 2713,
+      "exportedPath": "Data/Pasted image 20230925140100.png",
+      "dependencies": []
+    },
+    "Data/Pasted image 20231113125755.png": {
+      "modifiedTime": 1708505305495,
+      "sourceSize": 4019,
+      "exportedPath": "Data/Pasted image 20231113125755.png",
+      "dependencies": []
+    },
+    "Data/Pasted image 20231113130303.png": {
+      "modifiedTime": 1708505305495,
+      "sourceSize": 3380,
+      "exportedPath": "Data/Pasted image 20231113130303.png",
+      "dependencies": []
+    },
+    "Data/Pasted image 20231113130753.png": {
+      "modifiedTime": 1708505305495,
+      "sourceSize": 10002,
+      "exportedPath": "Data/Pasted image 20231113130753.png",
+      "dependencies": []
+    },
+    "Data/Pasted image 20231113143437.png": {
+      "modifiedTime": 1708505305495,
+      "sourceSize": 3560,
+      "exportedPath": "Data/Pasted image 20231113143437.png",
+      "dependencies": []
+    },
+    "Data/Pasted image 20240104153943.png": {
+      "modifiedTime": 1708505305495,
+      "sourceSize": 13804,
+      "exportedPath": "Data/Pasted image 20240104153943.png",
+      "dependencies": []
+    },
+    "Data/Pasted image 20240106180613.png": {
+      "modifiedTime": 1708505305495,
+      "sourceSize": 12990,
+      "exportedPath": "Data/Pasted image 20240106180613.png",
+      "dependencies": []
+    },
+    "Data/Pasted image 20240106182434.png": {
+      "modifiedTime": 1708505305495,
+      "sourceSize": 5794,
+      "exportedPath": "Data/Pasted image 20240106182434.png",
+      "dependencies": []
+    },
+    "Data/Pasted image 20240109105247.png": {
+      "modifiedTime": 1708505305495,
+      "sourceSize": 98928,
+      "exportedPath": "Data/Pasted image 20240109105247.png",
+      "dependencies": []
+    },
+    "Data/Pasted image 20240109111848.png": {
+      "modifiedTime": 1708505305495,
+      "sourceSize": 6835,
+      "exportedPath": "Data/Pasted image 20240109111848.png",
+      "dependencies": []
+    },
+    "Data/Pasted image 20240109112438.png": {
+      "modifiedTime": 1708505305495,
+      "sourceSize": 4733,
+      "exportedPath": "Data/Pasted image 20240109112438.png",
+      "dependencies": []
+    },
+    "Data/Pasted image 20240109131459.png": {
+      "modifiedTime": 1708505305495,
+      "sourceSize": 47126,
+      "exportedPath": "Data/Pasted image 20240109131459.png",
+      "dependencies": []
+    },
+    "Data/prodotto-tra-matrici.png": {
+      "modifiedTime": 1708505305495,
+      "sourceSize": 11294,
+      "exportedPath": "Data/prodotto-tra-matrici.png",
+      "dependencies": []
+    },
+    "Funzioni/Trasformazioni.md": {
+      "modifiedTime": 1708505305495,
+      "sourceSize": 2979,
+      "exportedPath": "Funzioni/Trasformazioni.html",
+      "dependencies": []
+    },
+    "Geometria/Distanza fra spazi affini.md": {
+      "modifiedTime": 1708505305495,
+      "sourceSize": 3146,
+      "exportedPath": "Geometria/Distanza fra spazi affini.html",
+      "dependencies": []
+    },
+    "Geometria/Ortogonalita.md": {
+      "modifiedTime": 1708505305495,
+      "sourceSize": 2665,
+      "exportedPath": "Geometria/Ortogonalita.html",
+      "dependencies": []
+    },
+    "Geometria/Parallelismo.md": {
+      "modifiedTime": 1708505305495,
+      "sourceSize": 2683,
+      "exportedPath": "Geometria/Parallelismo.html",
+      "dependencies": []
+    },
+    "Geometria/Piano.md": {
+      "modifiedTime": 1708505305495,
+      "sourceSize": 3535,
+      "exportedPath": "Geometria/Piano.html",
+      "dependencies": []
+    },
+    "Geometria/Posizione reciproca.md": {
+      "modifiedTime": 1708505305495,
+      "sourceSize": 2081,
+      "exportedPath": "Geometria/Posizione reciproca.html",
+      "dependencies": []
+    },
+    "Geometria/Retta.md": {
+      "modifiedTime": 1708505305495,
+      "sourceSize": 2816,
+      "exportedPath": "Geometria/Retta.html",
+      "dependencies": []
+    },
+    "Matrici/Determinante.md": {
+      "modifiedTime": 1708505305495,
+      "sourceSize": 2146,
+      "exportedPath": "Matrici/Determinante.html",
+      "dependencies": []
+    },
+    "Matrici/Matrice inversa.md": {
+      "modifiedTime": 1708505305495,
+      "sourceSize": 1749,
+      "exportedPath": "Matrici/Matrice inversa.html",
+      "dependencies": []
+    },
+    "Matrici/Matrici.md": {
+      "modifiedTime": 1708505305495,
+      "sourceSize": 2359,
+      "exportedPath": "Matrici/Matrici.html",
+      "dependencies": []
+    },
+    "Matrici/Matrici diagonalizzabili.md": {
+      "modifiedTime": 1708505305495,
+      "sourceSize": 3294,
+      "exportedPath": "Matrici/Matrici diagonalizzabili.html",
+      "dependencies": []
+    },
+    "Matrici/Rango.md": {
+      "modifiedTime": 1708505305495,
+      "sourceSize": 2244,
+      "exportedPath": "Matrici/Rango.html",
+      "dependencies": []
+    },
+    "Matrici/Trasposta di matrice.md": {
+      "modifiedTime": 1708505305495,
+      "sourceSize": 358,
+      "exportedPath": "Matrici/Trasposta di matrice.html",
+      "dependencies": []
+    },
+    "Pre-geometria/Basi ortogonali e ortonormali.md": {
+      "modifiedTime": 1708505305495,
+      "sourceSize": 4993,
+      "exportedPath": "Pre-geometria/Basi ortogonali e ortonormali.html",
+      "dependencies": []
+    },
+    "Pre-geometria/Cambio di base.md": {
+      "modifiedTime": 1708505305495,
+      "sourceSize": 1411,
+      "exportedPath": "Pre-geometria/Cambio di base.html",
+      "dependencies": []
+    },
+    "Pre-geometria/Pre-geometria.md": {
+      "modifiedTime": 1708505305495,
+      "sourceSize": 1221,
+      "exportedPath": "Pre-geometria/Pre-geometria.html",
+      "dependencies": []
+    },
+    "Pre-geometria/Prodotto scalare.md": {
+      "modifiedTime": 1708505305495,
+      "sourceSize": 1905,
+      "exportedPath": "Pre-geometria/Prodotto scalare.html",
+      "dependencies": []
+    },
+    "Pre-geometria/Prodotto vettore.md": {
+      "modifiedTime": 1708505305495,
+      "sourceSize": 2177,
+      "exportedPath": "Pre-geometria/Prodotto vettore.html",
+      "dependencies": []
+    },
+    "Pre-geometria/Proiezione.md": {
+      "modifiedTime": 1708505305495,
+      "sourceSize": 451,
+      "exportedPath": "Pre-geometria/Proiezione.html",
+      "dependencies": []
+    },
+    "Quadratiche/Classificazione affine delle quadriche.md": {
+      "modifiedTime": 1708505305495,
+      "sourceSize": 2968,
+      "exportedPath": "Quadratiche/Classificazione affine delle quadriche.html",
+      "dependencies": []
+    },
+    "Quadratiche/Classificazione delle quadriche.md": {
+      "modifiedTime": 1708505305495,
+      "sourceSize": 3045,
+      "exportedPath": "Quadratiche/Classificazione delle quadriche.html",
+      "dependencies": []
+    },
+    "Quadratiche/Forma canonica.md": {
+      "modifiedTime": 1708505305495,
+      "sourceSize": 6819,
+      "exportedPath": "Quadratiche/Forma canonica.html",
+      "dependencies": []
+    },
+    "Quadratiche/Forme quadratiche.md": {
+      "modifiedTime": 1708505305495,
+      "sourceSize": 5259,
+      "exportedPath": "Quadratiche/Forme quadratiche.html",
+      "dependencies": []
+    },
+    "Quadratiche/Quadriche.md": {
+      "modifiedTime": 1708505305495,
+      "sourceSize": 4559,
+      "exportedPath": "Quadratiche/Quadriche.html",
+      "dependencies": []
+    },
+    "Quadratiche/Quadriche di rotazione.md": {
+      "modifiedTime": 1708505305495,
+      "sourceSize": 832,
+      "exportedPath": "Quadratiche/Quadriche di rotazione.html",
+      "dependencies": []
+    },
+    "Quadratiche/Superfici quadratiche.md": {
+      "modifiedTime": 1708505305495,
+      "sourceSize": 1091,
+      "exportedPath": "Quadratiche/Superfici quadratiche.html",
+      "dependencies": []
+    },
+    "Sistemi lineari/Sistemi lineari.md": {
+      "modifiedTime": 1708505305495,
+      "sourceSize": 2838,
+      "exportedPath": "Sistemi lineari/Sistemi lineari.html",
+      "dependencies": []
+    },
+    "Spazi vettoriali/Base di spazio vettoriale.md": {
+      "modifiedTime": 1708505305495,
+      "sourceSize": 2988,
+      "exportedPath": "Spazi vettoriali/Base di spazio vettoriale.html",
+      "dependencies": []
+    },
+    "Spazi vettoriali/Sottospazio vettoriale.md": {
+      "modifiedTime": 1708505305495,
+      "sourceSize": 1453,
+      "exportedPath": "Spazi vettoriali/Sottospazio vettoriale.html",
+      "dependencies": []
+    },
+    "Spazi vettoriali/Spazi vettoriali.md": {
+      "modifiedTime": 1708505305495,
+      "sourceSize": 1285,
+      "exportedPath": "Spazi vettoriali/Spazi vettoriali.html",
+      "dependencies": []
+    },
+    "Vettori/Vettori.md": {
+      "modifiedTime": 1708505305495,
+      "sourceSize": 1298,
+      "exportedPath": "Vettori/Vettori.html",
+      "dependencies": []
+    },
+    "index.md": {
+      "modifiedTime": 1708505305495,
+      "sourceSize": 2163,
+      "exportedPath": "index.html",
+      "dependencies": []
+    },
+    "Introduzione al corso.md": {
+      "modifiedTime": 1708505305495,
+      "sourceSize": 5527,
+      "exportedPath": "Introduzione al corso.html",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1708505305495,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1708505305495,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1708505305495,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1708505305495,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1708505305495,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1708505305495,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1708505305495,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1708505305495,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1708505305495,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1708505305495,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1708505305495,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1708505305495,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1708505305495,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1708505305495,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Zero.woff": {
+      "modifiedTime": 1708505305495,
+      "sourceSize": 1368,
+      "exportedPath": "lib/fonts/MathJax_Zero.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Main-Regular.woff": {
+      "modifiedTime": 1708505305495,
+      "sourceSize": 34160,
+      "exportedPath": "lib/fonts/MathJax_Main-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Main-Bold.woff": {
+      "modifiedTime": 1708505305495,
+      "sourceSize": 34464,
+      "exportedPath": "lib/fonts/MathJax_Main-Bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Math-Italic.woff": {
+      "modifiedTime": 1708505305495,
+      "sourceSize": 19360,
+      "exportedPath": "lib/fonts/MathJax_Math-Italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Main-Italic.woff": {
+      "modifiedTime": 1708505305495,
+      "sourceSize": 20832,
+      "exportedPath": "lib/fonts/MathJax_Main-Italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Math-BoldItalic.woff": {
+      "modifiedTime": 1708505305495,
+      "sourceSize": 19776,
+      "exportedPath": "lib/fonts/MathJax_Math-BoldItalic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Size1-Regular.woff": {
+      "modifiedTime": 1708505305495,
+      "sourceSize": 5792,
+      "exportedPath": "lib/fonts/MathJax_Size1-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Size2-Regular.woff": {
+      "modifiedTime": 1708505305495,
+      "sourceSize": 5464,
+      "exportedPath": "lib/fonts/MathJax_Size2-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Size3-Regular.woff": {
+      "modifiedTime": 1708505305495,
+      "sourceSize": 3244,
+      "exportedPath": "lib/fonts/MathJax_Size3-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Size4-Regular.woff": {
+      "modifiedTime": 1708505305495,
+      "sourceSize": 5148,
+      "exportedPath": "lib/fonts/MathJax_Size4-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_AMS-Regular.woff": {
+      "modifiedTime": 1708505305495,
+      "sourceSize": 40808,
+      "exportedPath": "lib/fonts/MathJax_AMS-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Calligraphic-Regular.woff": {
+      "modifiedTime": 1708505305495,
+      "sourceSize": 9600,
+      "exportedPath": "lib/fonts/MathJax_Calligraphic-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Calligraphic-Bold.woff": {
+      "modifiedTime": 1708505305495,
+      "sourceSize": 9908,
+      "exportedPath": "lib/fonts/MathJax_Calligraphic-Bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Fraktur-Regular.woff": {
+      "modifiedTime": 1708505305495,
+      "sourceSize": 21480,
+      "exportedPath": "lib/fonts/MathJax_Fraktur-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Fraktur-Bold.woff": {
+      "modifiedTime": 1708505305495,
+      "sourceSize": 22340,
+      "exportedPath": "lib/fonts/MathJax_Fraktur-Bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_SansSerif-Regular.woff": {
+      "modifiedTime": 1708505305495,
+      "sourceSize": 12660,
+      "exportedPath": "lib/fonts/MathJax_SansSerif-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_SansSerif-Bold.woff": {
+      "modifiedTime": 1708505305495,
+      "sourceSize": 15944,
+      "exportedPath": "lib/fonts/MathJax_SansSerif-Bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_SansSerif-Italic.woff": {
+      "modifiedTime": 1708505305495,
+      "sourceSize": 14628,
+      "exportedPath": "lib/fonts/MathJax_SansSerif-Italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Script-Regular.woff": {
+      "modifiedTime": 1708505305495,
+      "sourceSize": 11852,
+      "exportedPath": "lib/fonts/MathJax_Script-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Typewriter-Regular.woff": {
+      "modifiedTime": 1708505305495,
+      "sourceSize": 17604,
+      "exportedPath": "lib/fonts/MathJax_Typewriter-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Vector-Regular.woff": {
+      "modifiedTime": 1708505305495,
+      "sourceSize": 1136,
+      "exportedPath": "lib/fonts/MathJax_Vector-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Vector-Bold.woff": {
+      "modifiedTime": 1708505305495,
+      "sourceSize": 1116,
+      "exportedPath": "lib/fonts/MathJax_Vector-Bold.woff",
+      "dependencies": []
+    }
+  }
+}
