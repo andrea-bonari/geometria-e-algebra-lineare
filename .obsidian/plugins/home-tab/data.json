@@ -24,12 +24,16 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "Quadratiche/Forma canonica.md",
-      "timestamp": 1707683426498
+      "filepath": "Quadratiche/Classificazione delle quadriche.md",
+      "timestamp": 1707904309626
     },
     {
-      "filepath": "Quadratiche/Classificazione delle quadriche.md",
-      "timestamp": 1707682804135
+      "filepath": "index.md",
+      "timestamp": 1707683507113
+    },
+    {
+      "filepath": "Quadratiche/Forma canonica.md",
+      "timestamp": 1707683426498
     },
     {
       "filepath": "Matrici/Rango.md",

@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "bdd83e2d941f1690",
+        "id": "90cc6ca4bfeea4d1",
         "type": "tabs",
         "children": [
           {
-            "id": "62c9662b2031353f",
+            "id": "017efa86e9e4d9e9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Quadratiche/Forma canonica.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "home-tab-view",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quadratiche/Forma canonica.md",
+                "file": "Quadratiche/Classificazione delle quadriche.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quadratiche/Forma canonica.md",
+                "file": "Quadratiche/Classificazione delle quadriche.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quadratiche/Forma canonica.md"
+                "file": "Quadratiche/Classificazione delle quadriche.md"
               }
             }
           },
@@ -159,10 +155,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "62c9662b2031353f",
+  "active": "017efa86e9e4d9e9",
   "lastOpenFiles": [
-    "Esame.md",
     "Quadratiche/Forma canonica.md",
+    "Esame.md",
     "Quadratiche/Classificazione delle quadriche.md",
     "Matrici/Rango.md",
     "Funzioni/Trasformazioni.md",
