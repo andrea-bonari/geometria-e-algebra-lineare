@@ -42,6 +42,3 @@ Sottospazi affini e giacitura. Parallelismo. Forma parametrica e cartesiana. Int
 Generalità. Equazione in forma matriciale. Classificazione metrica e affine di coniche e quadriche. Riduzione in forma canonica. Considerazioni geometriche: centro, asse, vertice, rette e piani di simmetria, quadriche di rotazione.
 ### Prerequisiti
 Si richiede che lo studente abbia una buona conoscenza degli argomenti di matematica trattati nella scuola secondaria di secondo grado, incluse le nozioni di base di teoria degli insiemi. In maniera particolare si richiede la capacità di saper lavorare con i polinomi, di applicare le principali formule di trigonometria, di risolvere semplici equazioni, di saper utilizzare i metodi della geometria analitica nel piano. 
-### Modalità di valutazione
-L’esame può essere superato iscrivendosi alle prove in itinere, oppure a uno degli appelli previsti dal calendario accademico. In occasione della seconda prova in itinere c’è la possibilità di ripetere o recuperare la prima prova in itinere; in tal caso, lo studente sosterrà una prova completa. L’esame è composto da una prova pratica, consistente di una Parte A con domande a risposta multipla ed una Parte B con esercizi a risposta aperta, ed una prova teorica.
-Per superare l’esame è necessario ottenere una valutazione positiva in entrambe le prove.

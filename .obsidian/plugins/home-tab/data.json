@@ -24,24 +24,8 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "Introduzione al corso.md",
-      "timestamp": 1708505316582
-    },
-    {
-      "filepath": "Vettori/Vettori.md",
-      "timestamp": 1708505316350
-    },
-    {
-      "filepath": "Spazi vettoriali/Spazi vettoriali.md",
-      "timestamp": 1708505316047
-    },
-    {
-      "filepath": "Spazi vettoriali/Sottospazio vettoriale.md",
-      "timestamp": 1708505315801
-    },
-    {
-      "filepath": "Spazi vettoriali/Base di spazio vettoriale.md",
-      "timestamp": 1708505315525
+      "filepath": "index.md",
+      "timestamp": 1716469812491
     }
   ],
   "starredFileStore": [],
