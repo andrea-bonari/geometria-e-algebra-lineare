@@ -11,8 +11,12 @@
             "id": "aa269d89d99332f7",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Funzioni/Trasformazioni.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Funzioni/Trasformazioni.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Funzioni/Trasformazioni.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Funzioni/Trasformazioni.md"
+              }
             }
           },
           {
@@ -151,10 +159,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "532fb42e3a52481d",
+  "active": "aa269d89d99332f7",
   "lastOpenFiles": [
-    "Untitled.md",
+    "index.md",
     "Introduzione al corso.md",
+    "Untitled.md",
     "docs/lib/fonts/2d5198822ab091ce4305.woff2",
     "docs/lib/fonts/94f2f163d4b698242fef.otf",
     "docs/lib/fonts/72505e6a122c6acd5471.woff2",
@@ -197,7 +206,6 @@
     "Matrici/Rango.md",
     "Matrici/Matrici diagonalizzabili.md",
     "Matrici/Matrici.md",
-    "Matrici/Matrice inversa.md",
-    "Matrici/Determinante.md"
+    "Matrici/Matrice inversa.md"
   ]
 }
