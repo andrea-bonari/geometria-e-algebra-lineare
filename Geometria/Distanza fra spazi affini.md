@@ -37,4 +37,3 @@
 >[!note]
 >Sia $V$ uno spazio vettoriale e sia $(v\cdot w)$ un prodotto scalare su $V$.
 >Sia $U$ un sottospazio di $V$. Allora, dato $v\in V$, il vettore $U$ che minimizza la distanza da $v$ è la proiezione ortogonale di $v$ su $U$. Questo vettore è unico ed è definito come $$\min_{u\in U}||v-u||=||v-p_{U}(v)||=||p_{U^{\perp}}(v)$$
-

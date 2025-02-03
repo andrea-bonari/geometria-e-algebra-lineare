@@ -22,24 +22,29 @@ Il numero di elementi di una qualsiasi base di uno spazio $V$ è chiamato dimens
 
 ### Spazio riga e spazio colonna
 >[!note]
->Se $A$ è una matrice $n$x$m$ indichiamo con $A_{1},A_{2},\cdots,A_{n}$ le righe di $A$ e con $A^{1},A^{2},\cdots,A^{m}$ le colonne di $A$.
+>Se $A$ è una matrice $n\times m$ indichiamo con $A_{1},A_{2},\cdots,A_{n}$ le righe di $A$ e con $A^{1},A^{2},\cdots,A^{m}$ le colonne di $A$.
 >
 >Lo spazio riga di $A$ è lo spazio generato dalle righe di $A$, mentre lo spazio colonna di $A$ è lo spazio generato dalle colonne di $A$.
 
 Se una matrice $B$ è a gradini allora le sue righe non nulle sono linearmente indipendenti e quindi sono una base del suo spazio riga.
 
 ### Operazioni tra sottospazi
-- ##### Somma:
+>[!note] Somma tra sottospazi
 Se $U,W$ sono sottospazi di uno spazio $V$ allora lo spazio somma $U+W$ è un sottospazio.$$U+W=\{u+w\quad|\quad u\in U, w\in W\}$$
-- ##### Intersezione:
-Se $U,W$ sono sottospazi di uno spazio $V$ allora lo spazio intersezione $U\cap W$ è un sottospazio.$$U\cap W=\{v\quad|\quad v\in U,v\in W\}$$
->[!abstract] Formula di Grassmann
->Vale la seguente formula: $$\dim(U+W)+\dim(U\cap W)=\dim(U)+\dim(W)$$
-- ##### Somma diretta
-Si dice che uno spazio $V$ è somma diretta di due sottospazi $U,W$ se $$V=U+W\quad\text{e}\quad U\cap W=\{\overrightarrow{0}\}$$
-La notazione della somma diretta fra $U$ e $W$ è: $V=U\oplus W$.
-- ##### Complemento di un sottospazio
-Se $U$ è un sottospazio di uno spazio $V$, un complemento di $U$ è un sottospazio $W$ tale che $V=U\oplus W$.
-- ##### Proiezione
-Sia $V=U\oplus W$, allora, dato $v\in V$ possiamo scrivere in modo unico $v=u+w$ con $u\in U$ e $v\in V$. Il vettore $u$ è detto la proiezione di $v$ su $U$ relativa alla somma diretta $V=U\oplus W$.
 
+>[!note] Intersezione tra sottospazi
+>Se $U,W$ sono sottospazi di uno spazio $V$ allora lo spazio intersezione $U\cap W$ è un sottospazio.$$U\cap W=\{v\quad|\quad v\in U,v\in W\}$$
+>
+
+>[!note] Somma diretta tra sottospazi
+>Si dice che uno spazio $V$ è somma diretta di due sottospazi $U,W$ se $$V=U+W\quad\text{e}\quad U\cap W=\{\overrightarrow{0}\}$$
+>La notazione della somma diretta fra $U$ e $W$ è: $V=U\oplus W$.
+
+>[!note] Complemento di un sottospazio
+>Se $U$ è un sottospazio di uno spazio $V$, un complemento di $U$ è un sottospazio $W$ tale che $V=U\oplus W$.
+
+>[!note] Proiezione di un sottospazio
+>Sia $V=U\oplus W$, allora, dato $v\in V$ possiamo scrivere in modo unico $v=u+w$ con $u\in U$ e $v\in V$. Il vettore $u$ è detto la proiezione di $v$ su $U$ relativa alla somma diretta $V=U\oplus W$.
+
+>[!tip] Formula di Grassmann
+>Vale la seguente formula: $$\dim(U+W)+\dim(U\cap W)=\dim(U)+\dim(W)$$

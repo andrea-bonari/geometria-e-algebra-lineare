@@ -7,7 +7,7 @@
 >- Il vettore colonna $b=\begin{pmatrix}b_{1}\\b_{2}\\\vdots\\b_{m}\end{pmatrix}$ prende il nome di vettore di termini noti.
 >- Il vettore colonna $X=\begin{pmatrix}x_{1}\\x_{2}\\\vdots\\x_{m}\end{pmatrix}$ prende il nome di vettore delle incognite.
 
-La matrice completa di un sistema è $(A | b)$.
+La matrice completa di un sistema è $(A\space|\space b)$.
 
 I sistemi possono essere:
 - omogenei ($b=\overrightarrow{0}$):
@@ -16,15 +16,16 @@ I sistemi possono essere:
 - non omogenei.
 	- La soluzione sarà in formato: $\text{sol}(A,b)=x_{\text{part}}+\text{sol}(A,\overrightarrow{0})$
 
-Una matrice si dice a gradini se il pivot di ogni riga è in una colonna successiva a quella del pivot della riga precedente, con pivot si intende il primo elemento non nullo di una riga della matrice. Allo stesso modo un sistema è definito a gradini se la sua matrice completa è a gradini.
+>[!tip] Matrice a gradini
+>Una matrice si dice a gradini se il pivot di ogni riga è in una colonna successiva a quella del pivot della riga precedente, con pivot si intende il primo elemento non nullo di una riga della matrice. Allo stesso modo un sistema è definito a gradini se la sua matrice completa è a gradini.
 
 ### Numero di soluzioni di un sistema
-
-Diremo che una matrice ha $\infty^{k}$ soluzioni se ha almeno una soluzione e $\dim(\text{sol}(A,\overrightarrow{0}))=k$. Se un sistema $AX=b$ ha soluzioni all'ora l'espressione $$X=X_\text{part} + t_{1}X_{1}+t_{2}X_{2}+\cdots+t_{k}X_{k}$$descrive tutte le soluzioni in k parametri, ed è detta soluzione generale del sistema.
+>[!note]
+>Diremo che una matrice ha $\infty^{k}$ soluzioni se ha almeno una soluzione e $\dim(\text{sol}(A,\overrightarrow{0}))=k$. Se un sistema $AX=b$ ha soluzioni all'ora l'espressione $$X=X_\text{part} + t_{1}X_{1}+t_{2}X_{2}+\cdots+t_{k}X_{k}$$descrive tutte le soluzioni in k parametri, ed è detta soluzione generale del sistema.
 
 ##### Teorema di Rouchè-Capelli
 >[!note]
->Sia $A$ una matrice $n$x$m$ e si consideri il sistema lineare di $n$ equazioni e $m$ incognite $AX=b$. Il sistema ha soluzione se e solo se $$\text{rk}(A)=\text{rk}(A,b)$$
+>Sia $A$ una matrice $n\times m$ e si consideri il sistema lineare di $n$ equazioni e $m$ incognite $AX=b$. Il sistema ha soluzione se e solo se $$\text{rk}(A)=\text{rk}(A\space |\space b)$$
 
 ##### Metodo di Cramer
 >[!note]

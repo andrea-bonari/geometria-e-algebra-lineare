@@ -6,7 +6,7 @@
 >[!example] Esempi di spazio vettoriale
 >- L'insieme dei vettori liberi nel piano o nello spazio
 >- L'insieme di tutti gli $n$-vettori ($\mathbb{R}^{n}$)
->- L'insieme delle matrici $n$x$m$ ($M(n\times m,\mathbb{R})$ oppure $\mathbb{R}^{n\times m}$)
+>- L'insieme delle matrici $n\times m$ ($M(n\times m,\mathbb{R})$ oppure $\mathbb{R}^{n\times m}$)
 >- L'insieme dei polinomi ($\mathbb{R}[X]$)
 >- L'insieme dei polinomi di grado minore o uguale a $n$ ($\mathbb{R}_{n}[X]$)
 

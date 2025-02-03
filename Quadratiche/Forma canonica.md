@@ -1,4 +1,5 @@
-Ogni quadrica può essere spostata con una rototraslazione in una particolare forma detta forma canonica della quadrica.
+>[!note]
+>Ogni quadrica può essere spostata con una rototraslazione in una particolare forma detta forma canonica della quadrica.
 
 ### Matrice di una quadrica
 >[!note]

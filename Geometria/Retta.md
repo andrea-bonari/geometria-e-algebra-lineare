@@ -1,4 +1,4 @@
- ### Vettore differenza
+### Vettore differenza
 >[!note]
 >Sia $\overrightarrow{P_{1}P_{2}}$ il vettore libero rappresentato dal segmento $P_{1}P_{2}$. Il vettore differenza è $$\overrightarrow{P_{1}P_{2}}=(x_{2}-x_{1})\overrightarrow{i}+(y_{2}-y_{1})\overrightarrow{j}+(z_{2}-z_{1})\overrightarrow{k}$$
 >Che ha norma $||\overrightarrow{P_{1}P_{2}}||$ .
@@ -29,5 +29,5 @@
 
 ### Equazione cartesiana di una retta nello spazio
 >[!note]
->Una retta può anche essere espressa come intersezione di due piani, quindi come insieme delle soluzioni del sistema: $$\begin{cases}a_{1}x+b_{1}y+c_{1}z=d_{1}\\a_{2}x+b_{2}y+c_{2}=d_{2}\end{cases}$$Con la condizione che il sistema abbia $\infty^{1}$ soluzione, quindi $$\text{rk}\begin{pmatrix}a_{1}&b_{1}&c_{1}\\a_{2}&b_{2}&c_{2}\end{pmatrix}=2$$
+>Una retta può anche essere espressa come intersezione di due piani, quindi come insieme delle soluzioni del sistema: $$\begin{cases}a_{1}x+b_{1}y+c_{1}z=d_{1}\\a_{2}x+b_{2}y+c_{2}z=d_{2}\end{cases}$$Con la condizione che il sistema abbia $\infty^{1}$ soluzione, quindi $$\text{rk}\begin{pmatrix}a_{1}&b_{1}&c_{1}\\a_{2}&b_{2}&c_{2}\end{pmatrix}=2$$
 

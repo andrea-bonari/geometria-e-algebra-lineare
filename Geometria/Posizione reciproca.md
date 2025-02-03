@@ -1,5 +1,4 @@
-### Piano-retta
->[!note]
+>[!note] Posizione piano-retta
 >Sia il piano $\alpha$ e la retta $r$ definiti come: $$\alpha: ax+by+cz=d\qquad r:\begin{cases}a_{1}x+b_{1}y+c_{1}z=d_{1}\\a_{2}x+b_{2}y+c_{2}z=d_{2}\end{cases}$$
 >L'intersezione del piano con la retta è data dalle soluzioni del sistema $$\begin{cases}ax+by+cz=d\\a_{1}x+b_{1}y+c_{1}z=d_{1}\\a_{2}x+b_{2}y+c_{2}z=d_{2}\end{cases}$$
 >Allora la posizione reciproca del piano e della retta sarà:
@@ -10,10 +9,7 @@
 >| 2 | 3 | nessuna | Piano e retta paralleli e distinti |
 >| 3 | 3 | 1 | Piano e retta incidenti |
 
-
-
-### Retta-retta
->[!note]
+>[!note] Posizione retta-retta
 >Date le rette $r,s$ nello spazio di equazione cartesiana $$r:\begin{cases}a_{1}x+b_{1}y+c_{1}z=d_{1}\\a_{2}x+b_{2}y+c_{2}z=d_{2}\end{cases}\qquad s:\begin{cases}a_{1}'x+b_{1}'y+c_{1}'z=d_{1}'\\a_{2}'x+b_{2}'y+c_{2}'z+d_{2}'\end{cases}$$
 >Studiamo la loro intersezione: $$\begin{cases}a_{1}x+b_{1}y+c_{1}z=d_{1}\\a_{2}x+b_{2}y+c_{2}z=d_{2}\\a_{1}'x+b_{1}'y+c_{1}'z=d_{1}'\\a_{2}'x+b_{2}'y+c_{2}'z+d_{2}'\end{cases}$$
 >Allora la posizione reciproca del piano e della retta sarà:

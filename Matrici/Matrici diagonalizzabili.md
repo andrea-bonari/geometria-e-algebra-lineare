@@ -8,7 +8,6 @@
 >[!abstract] Matrice diagonale
 >Una matrice $A$ si dice diagonale se è quadrata e si presenta nella forma: $$\begin{pmatrix}a_{1}&\cdots&0\\\vdots&\ddots&0\\0&0&a_{n}\end{pmatrix}\qquad\forall a\in\mathbb{R}$$
 ### Autovalori e autovettori
-
 >[!note]
 >Sia $A$ una matrice quadrata di ordine $n$, si dice che un numero $\lambda\in\mathbb{R}$ è un autovalore per $A$ se esiste un vettore $v\in\mathbb{R}^{n}$ non nullo tale che $A\cdot v=\lambda\cdot v$.
 >
@@ -32,7 +31,6 @@ Il rapporto fra la molteplicità algebrica e geometrica è $$m_{g}(\lambda)\leq 
 Un autovalore si dice semplice se $m_{a}(\lambda)=1$ e si dice regolare se $m_{g}(\lambda)=m_{a}(\lambda)$.
 
 ### Criteri di diagonalizzazione
-
 1. Se una matrice $A$ quadrata di ordine $n$ ha $n$ autovalori distinti allora la matrice è diagonalizzabile.
 2. Una matrice quadrata $A$ di ordine $n$ è diagonalizzabile se e solo se la somma delle molteplicità algebriche è $n$ e ogni autovalore è regolare.
 

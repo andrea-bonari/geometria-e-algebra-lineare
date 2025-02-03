@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ac6f34d5464e9105",
+        "id": "c8dcf5dbf5c3235c",
         "type": "tabs",
         "children": [
           {
-            "id": "aa269d89d99332f7",
+            "id": "fe25a5f8400e418a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Funzioni/Trasformazioni.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ]
@@ -38,8 +40,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -48,13 +53,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "crame",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +69,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Funzioni/Trasformazioni.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
@@ -102,10 +112,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Funzioni/Trasformazioni.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
             }
           },
           {
@@ -116,7 +127,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -124,9 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Funzioni/Trasformazioni.md"
-              }
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           },
           {
@@ -134,7 +147,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -147,6 +162,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "webpage-html-export:Export Vault to HTML": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -154,16 +170,38 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-matrix:Obsidian Matrix": false,
-      "webpage-html-export:Export Vault to HTML": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "aa269d89d99332f7",
+  "active": "fe25a5f8400e418a",
   "lastOpenFiles": [
-    "index.md",
     "Introduzione al corso.md",
-    "Untitled.md",
+    "Geometria/Retta.md",
+    "index.md",
+    "Quadratiche/Quadriche di rotazione.md",
+    "Quadratiche/Superfici quadratiche.md",
+    "Quadratiche/Classificazione affine delle quadriche.md",
+    "Quadratiche/Classificazione delle quadriche.md",
+    "Quadratiche/Forma canonica.md",
+    "Quadratiche/Forme quadratiche.md",
+    "Geometria/Distanza fra spazi affini.md",
+    "Geometria/Ortogonalità.md",
+    "Geometria/Parallelismo.md",
+    "Geometria/Posizione reciproca.md",
+    "Geometria/Piano.md",
+    "Spazi vettoriali/Basi ortogonali e ortonormali.md",
+    "Vettori/Proiezione.md",
+    "Vettori/Prodotto vettore.md",
+    "Vettori/Prodotto scalare.md",
+    "Vettori/Untitled.md",
+    "Matrici/Trasformazioni",
+    "Pre-geometria/Cambio di base.md",
+    "Matrici/Trasformazioni/Isomorfismi.md",
+    "Matrici/Trasformazioni/Trasformazioni lineari.md",
+    "Spazi vettoriali/Base di spazio vettoriale.md",
+    "Spazi vettoriali/Sottospazio vettoriale.md",
+    "Spazi vettoriali/Spazi vettoriali.md",
+    "Sistemi lineari/Sistemi lineari.md",
     "docs/lib/fonts/2d5198822ab091ce4305.woff2",
     "docs/lib/fonts/94f2f163d4b698242fef.otf",
     "docs/lib/fonts/72505e6a122c6acd5471.woff2",
@@ -173,7 +211,6 @@
     "docs/Vettori/Vettori.html",
     "docs/Vettori",
     "docs/Spazi vettoriali/Spazi vettoriali.html",
-    "docs/Spazi vettoriali/Sottospazio vettoriale.html",
     "docs/Data/prodotto-tra-matrici.png",
     "docs/Data/Pasted image 20240109131459.png",
     "docs/Data/Pasted image 20240109112438.png",
@@ -183,29 +220,6 @@
     "docs/Data/Pasted image 20240106180613.png",
     "docs/Data/Pasted image 20240104153943.png",
     "docs/Data/Pasted image 20231113143437.png",
-    "docs/Data/Pasted image 20231113130753.png",
-    "Vettori/Vettori.md",
-    "Spazi vettoriali/Spazi vettoriali.md",
-    "Spazi vettoriali/Sottospazio vettoriale.md",
-    "Spazi vettoriali/Base di spazio vettoriale.md",
-    "Sistemi lineari/Sistemi lineari.md",
-    "Quadratiche/Superfici quadratiche.md",
-    "Quadratiche/Quadriche di rotazione.md",
-    "Quadratiche/Quadriche.md",
-    "Quadratiche/Forme quadratiche.md",
-    "Quadratiche/Forma canonica.md",
-    "Quadratiche/Classificazione delle quadriche.md",
-    "Quadratiche/Classificazione affine delle quadriche.md",
-    "Pre-geometria/Proiezione.md",
-    "Pre-geometria/Prodotto vettore.md",
-    "Pre-geometria/Prodotto scalare.md",
-    "Pre-geometria/Pre-geometria.md",
-    "Pre-geometria/Cambio di base.md",
-    "Pre-geometria/Basi ortogonali e ortonormali.md",
-    "Matrici/Trasposta di matrice.md",
-    "Matrici/Rango.md",
-    "Matrici/Matrici diagonalizzabili.md",
-    "Matrici/Matrici.md",
-    "Matrici/Matrice inversa.md"
+    "docs/Data/Pasted image 20231113130753.png"
   ]
 }
