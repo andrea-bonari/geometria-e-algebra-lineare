@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Geometria/Distanza fra spazi affini.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Distanza fra spazi affini"
             }
           }
         ]
@@ -175,9 +175,10 @@
   },
   "active": "fe25a5f8400e418a",
   "lastOpenFiles": [
+    "Geometria/Posizione reciproca.md",
+    "index.md",
     "Introduzione al corso.md",
     "Geometria/Retta.md",
-    "index.md",
     "Quadratiche/Quadriche di rotazione.md",
     "Quadratiche/Superfici quadratiche.md",
     "Quadratiche/Classificazione affine delle quadriche.md",
@@ -187,7 +188,6 @@
     "Geometria/Distanza fra spazi affini.md",
     "Geometria/Ortogonalità.md",
     "Geometria/Parallelismo.md",
-    "Geometria/Posizione reciproca.md",
     "Geometria/Piano.md",
     "Spazi vettoriali/Basi ortogonali e ortonormali.md",
     "Vettori/Proiezione.md",
