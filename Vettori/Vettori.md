@@ -1,6 +1,5 @@
 >[!note]
->Un vettore è una $n$-upla di numeri nello spazio $\mathbb{R}^{n}$. Si definiscono le operazioni di somma e prodotto scalare:
->$$\begin{align*}
+>Un vettore è una $n$-upla di numeri nello spazio $\mathbb{R}^{n}$. Si definiscono le operazioni di somma e prodotto scalare: $$\begin{align*}
 &(x_{1},x_{2},\cdots,x_{n})+(y_{1},y_{2},\cdots,y_{n})=(x_{1}+y_{1},x_{2}+y_{2},\cdots,x_{n}+y_{n})\\
 &t\cdot(x_{1},x_{2},\cdots,x_{n})=(tx_{1},tx_{2},\cdots,tx_{n})\quad t\in\mathbb{R}
 \end{align*}$$

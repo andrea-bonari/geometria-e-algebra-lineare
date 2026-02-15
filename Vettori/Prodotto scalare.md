@@ -24,7 +24,3 @@ Sia $V$ uno spazio vettoriale. Un prodotto scalare su $V$ è una funzione che as
 >[!note]
 >Se $v$ e $w$ sono $n$-vettori allora vale la seguente disuguaglianza: $$||v+w||\leq||v||+||w||$$
 >![[Pasted image 20240106180613.png]]
-
-
-
-

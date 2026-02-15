@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geometria/Distanza fra spazi affini.md",
+                "file": "Vettori/Vettori.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Distanza fra spazi affini"
+              "title": "Vettori"
             }
           }
         ]
@@ -175,6 +175,9 @@
   },
   "active": "fe25a5f8400e418a",
   "lastOpenFiles": [
+    "Vettori/Prodotto scalare.md",
+    "Vettori/Vettori.md",
+    "Geometria/Distanza fra spazi affini.md",
     "Geometria/Posizione reciproca.md",
     "index.md",
     "Introduzione al corso.md",
@@ -185,14 +188,12 @@
     "Quadratiche/Classificazione delle quadriche.md",
     "Quadratiche/Forma canonica.md",
     "Quadratiche/Forme quadratiche.md",
-    "Geometria/Distanza fra spazi affini.md",
     "Geometria/Ortogonalità.md",
     "Geometria/Parallelismo.md",
     "Geometria/Piano.md",
     "Spazi vettoriali/Basi ortogonali e ortonormali.md",
     "Vettori/Proiezione.md",
     "Vettori/Prodotto vettore.md",
-    "Vettori/Prodotto scalare.md",
     "Vettori/Untitled.md",
     "Matrici/Trasformazioni",
     "Pre-geometria/Cambio di base.md",
@@ -201,7 +202,6 @@
     "Spazi vettoriali/Base di spazio vettoriale.md",
     "Spazi vettoriali/Sottospazio vettoriale.md",
     "Spazi vettoriali/Spazi vettoriali.md",
-    "Sistemi lineari/Sistemi lineari.md",
     "docs/lib/fonts/2d5198822ab091ce4305.woff2",
     "docs/lib/fonts/94f2f163d4b698242fef.otf",
     "docs/lib/fonts/72505e6a122c6acd5471.woff2",
