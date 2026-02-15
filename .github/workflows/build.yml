@@ -19,7 +19,7 @@ jobs:
     runs-on: ubuntu-22.04
     steps:
       - name: Build Quartz
-        uses: andrea-bonari/quartz@master
+        uses: andrea-bonari/quartz@v4
         with:
           site_title: "Geometria e algebra lineare"
           site_slug: "andrea-bonari.github.io/geometria-e-algebra-lineare"
